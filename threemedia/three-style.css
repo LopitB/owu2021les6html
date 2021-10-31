@@ -1,0 +1,57 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.flex {
+    display: flex;
+}
+
+.fd-col {
+    flex-direction: column;
+}
+
+.jc-s-a {
+    justify-content: space-around;
+}
+
+.row-g {
+    row-gap: 10px;
+}
+
+.col-g {
+    column-gap: 10px;
+}
+
+.b-silver {
+    background: silver;
+}
+
+.header {
+    width: 100%;
+    height: 200px;
+    background: darkgray;
+}
+
+.info {
+    width: 100%;
+    height: 600px;
+}
+
+.blocks {
+    width: 70%;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.block {
+    width: 32%;
+    height: 49.2%;
+    background: darkgray;
+}
+
+.banner {
+    width: 30%;
+    height: 100%;
+    background: darkgray;
+}

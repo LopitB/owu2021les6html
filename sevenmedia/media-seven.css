@@ -1,0 +1,28 @@
+@media screen and (max-width: 1200px){
+    header{
+        height: 50px;
+    }
+
+    .content{
+        height: 800px;
+        flex-direction: column;
+    }
+
+    .hero-sidebar{
+        width: 100%;
+    }
+
+    .main-extra{
+        width: 100%;
+    }
+
+    .images-posts{
+        height: 300px;
+    }
+
+    footer{
+        height: 50px;
+    }
+
+
+}

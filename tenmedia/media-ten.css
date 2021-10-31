@@ -1,0 +1,48 @@
+@media screen and (max-width: 1200px){
+    .logo{
+        width: 15%;
+    }
+
+    .main-text-s{
+        width: 50%;
+    }
+
+    .wall-post{
+        height: 1200px;
+    }
+
+    .posts{
+        flex-wrap: wrap;
+        height: 100%;
+    }
+
+    .post{
+        width: 45%;
+        height: 50%;
+    }
+
+    .white-wall{
+        height: 2000px;
+    }
+
+    .blogs{
+        height: 50%;
+    }
+
+    .blog{
+        width: 45%;
+        height: 30%;
+    }
+
+    .dark-text{
+        width: 100%;
+    }
+
+    .wall-text{
+        flex-direction: column;
+    }
+
+    .aqua-text{
+        width: 100%;
+    }
+}

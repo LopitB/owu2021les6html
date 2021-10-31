@@ -1,0 +1,46 @@
+@media screen and (max-width: 1200px) {
+    .wall-icons{
+        height: 2500px;
+    }
+
+    .icons{
+        height: 40%;
+    }
+
+    .up-icons{
+        flex-wrap: wrap;
+    }
+
+    .down-icons{
+        flex-wrap: wrap;
+    }
+
+    .block-icons{
+        width: 45%;
+        height: 45%;
+    }
+
+    .row-g-b{
+        row-gap: 1%;
+    }
+
+    .posts{
+
+    }
+
+    .post{
+        width: 95%;
+        height: 25%;
+    }
+
+    .triangle-left{
+        border: 65px solid transparent;
+        border-right: 50px solid black;
+    }
+
+    .triangle-right{
+        border: 65px solid transparent;
+        border-left: 50px solid black;
+    }
+
+}

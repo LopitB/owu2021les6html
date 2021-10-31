@@ -1,0 +1,33 @@
+@media screen and (max-width: 1200px) {
+   .home-about{
+       flex-direction: column;
+   }
+
+    .home{
+        width: 100%;
+        height: 50%;
+        background: cadetblue;
+    }
+
+    .about{
+        width: 100%;
+        height: 50%;
+        background: cadetblue;
+    }
+
+    .kabobs{
+        height: 100px;
+        background: slateblue;
+    }
+
+    .posts{
+        flex-direction: column;
+        height: 400px;
+    }
+
+    .post{
+        height: 33%;
+        width: 100%;
+        background: hotpink;
+    }
+}

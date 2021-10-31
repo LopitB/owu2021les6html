@@ -1,0 +1,30 @@
+@media screen and (max-width: 1200px){
+    header{
+        height: 50px;
+        background: cadetblue;
+    }
+
+    nav{
+        height: 25px;
+        background: lightgreen;
+    }
+
+    .ma-as{
+        flex-direction: column;
+    }
+
+    main{
+        width: 100%;
+        background: #8f4fb7;
+    }
+
+    aside{
+        width: 100%;
+        background: aqua;
+    }
+
+    footer{
+        height: 50px;
+        background: slateblue;
+    }
+}
